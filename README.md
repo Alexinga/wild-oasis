@@ -10,4 +10,6 @@ In the Dashboard you are able to:
 - Authentication and Authorization into the app
 - Update your personal account in the dashboard.
 
+Live site: https://wild-oasis-1.netlify.app/login
+
 ![wild-oasis](https://github.com/Alexinga/wild-oasis/assets/46765771/d3e7d4c6-313e-413b-bda0-ff303dce0faa)
